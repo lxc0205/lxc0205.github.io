@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>liuxichun的个人站</title>
+    <title>Xichun Liu 的个人站</title>
     <link>https://lxc0205.github.io/</link>
-    <description>Recent content on liuxichun的个人站</description>
+    <description>Recent content on Xichun Liu 的个人站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>All rights reserved - 2016</copyright>
+    <copyright>All rights reserved - 2025</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lxc0205.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -22,13 +22,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://lxc0205.github.io/post/2016/01/01/test/</guid>
       <description>echo &amp;#34;hello world !!&amp;#34; </description>
-    </item>
-    <item>
-      <title>Post title</title>
-      <link>https://lxc0205.github.io/post/2014/07/11/post-title/</link>
-      <pubDate>Fri, 11 Jul 2014 10:54:24 +0200</pubDate>
-      <guid>https://lxc0205.github.io/post/2014/07/11/post-title/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
